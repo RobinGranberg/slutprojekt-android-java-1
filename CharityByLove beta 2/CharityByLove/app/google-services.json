@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "902882681357",
+    "firebase_url": "https://charitybylove.firebaseio.com",
+    "project_id": "charitybylove",
+    "storage_bucket": "charitybylove.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902882681357:android:fbb9279294772ebe502b44",
+        "android_client_info": {
+          "package_name": "com.Charity.Love"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902882681357-bj3b4f83j9ko70mp3n3mdace2vrfce3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Charity.Love",
+            "certificate_hash": "69595078671db2df12062767116e06c2bc2d4086"
+          }
+        },
+        {
+          "client_id": "902882681357-cv6gnrnqip78pt16kgkn26a0n9d00dch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ADTCXN47Gp1chGo8eVUPuL-dOVlel7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902882681357-cv6gnrnqip78pt16kgkn26a0n9d00dch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
